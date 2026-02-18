@@ -4,10 +4,7 @@ Python to Scratch compiler and IDE
 ---
 
 ## ScratchThon Syntax and Scripting
-- [Functions](#functions)
-- [linking to images](#linking to images)
-
-
+- [Functions](#all functions)
 ### `basic scratchthon code`
 
 ```scratchthon
@@ -24,6 +21,8 @@ end()
 
 ```scratchthon
 link('cat.png')
+
+# all functions
 
 
 
