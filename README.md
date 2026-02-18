@@ -18,7 +18,7 @@ move(50)
 wait(0.5)
 move(-30)
 end()
-
+```
 ### `linking to images`
 
 ```scratchthon
