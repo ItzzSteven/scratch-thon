@@ -24,6 +24,7 @@ end()
 ```scratchthon
 link('cat.png')
 ```
+
 # all functions
 ## onFlagclick()
 - does something on flag click
