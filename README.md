@@ -1,7 +1,7 @@
 # ScratchThon
 Python to Scratch compiler and IDE
 
-> ⚠️ **Warning:** ScratchThon is in a **very beta stage**. Many features are experimental, and some exports may not work perfectly in all Scratch environments. expect 1 trillion bugs
+> ⚠️ **Warning:** ScratchThon is in a **very beta stage**. Many features are experimental, and some exports may not work perfectly, expect 1 trillion bugs
 
 
 ## ScratchThon Syntax and Scripting
