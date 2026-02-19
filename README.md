@@ -46,7 +46,6 @@ link('cat.png')
 
 # update log
 [b1.0]
-- first beta release<br>
-[b1.1]
+- first beta release<br>[b1.1]
 - added more import/exports
 
