@@ -3,7 +3,7 @@ Python to Scratch compiler and IDE
 
 > ⚠️ **Warning:** ScratchThon is in a **very beta stage**. Many features are experimental, and some exports may not work perfectly, expect 1 trillion bugs
 
-
+[Update log](#update-log)
 ## ScratchThon Syntax and Scripting
 [All Functions](#all-functions)
 
@@ -44,6 +44,9 @@ link('cat.png')
 
 
 
-
-
+# update log
+[b1.0]
+- first beta release
+[b1.1]
+- added more import/exports
 
