@@ -47,5 +47,6 @@ link('cat.png')
 # update log
 [b1.0]
     <br>- first beta release<br>[b1.1]
-    <br>- added more import/exports
+    <br>- added more import/exports<br>
+    - added tabs in text editor
 
