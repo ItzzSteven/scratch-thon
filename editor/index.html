@@ -196,6 +196,8 @@ async function exportToSB3(){
         else if(cmd==='print'){ b.opcode='looks_say'; b.inputs.MESSAGE=[1,[10,raw[0]]]; }
         else if(cmd==='wait'){ b.opcode='control_wait'; b.inputs.DURATION=[1,[5,parseFloat(raw[0])] ]; }
         else if(cmd==='gotoXY'){ b.opcode='motion_gotoxy'; b.inputs.X=[1,[4,parseFloat(raw[0])]]; b.inputs.Y=[1,[4,parseFloat(raw[1])] ]; }
+        else if(cmd==='changeXby'){ b.opcode='motion_changexby'; b.inputs.X=[1,[4,parseFloat(raw[0])]]; b.inputs.Y=[1,[4,parseFloat(raw[1])] ]; }
+        else if(cmd==='changeYby'){ b.opcode='motion_changexby'; b.inputs.X=[1,[4,parseFloat(raw[0])]]; b.inputs.Y=[1,[4,parseFloat(raw[1])] ]; }
         else continue;
         if(last) bks[last].next=id;
         bks[id]=b; last=id;
